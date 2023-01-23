@@ -3,14 +3,13 @@
   Python
   Javascript
   Web Development
-  Game Development
 - 🌱 I’m currently learning:
-  Game Devlopment
+  Game Development
 - 💞️ I’m looking to collaborate on:
   Python Projects
 - 📫 How to reach me:
   Instagram: s1rklra
-  Discord: sirKira#0001
+  Discord: sirKira#5957
 
 <!---
 sirKiraUzumaki/sirKiraUzumaki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
